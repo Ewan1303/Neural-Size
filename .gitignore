@@ -1,0 +1,14 @@
+# Local editor and assistant settings
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Working files
+scratch/
+results/log*.txt
+*.tmp
